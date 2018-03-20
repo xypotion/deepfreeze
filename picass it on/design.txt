@@ -1,0 +1,60 @@
+eye nose ear mouth
+
+AAAA x 4
+AAAB x 3 x 4
+AABC x 3 x 4
+ABCD x 1
+total = 29 combinations = 29 unique people
+
+number of people without [face feature] = 12, or 41.4% of total
+- so 41% are blind
+- 41% are deaf
+- 41% must communicate without speaking
+
+
+chance of 2 people having no face parts in common = .75^4 = 31.6% = 32% chance of mistrust
+
+
+ear
+- can hear you coming
+- can hear <say>
+- can hear <clap>
+
+nose
+- can smell you coming
+- can smell <waft>
+- can anticipate a <feel>
+
+eye
+- can see you coming
+- can see other person's face
+- can see <sign>
+
+mouth
+- can taste <share>
+- can <say> 1 word each
+- can <ask> about face, but fails without trust
+- can <promise> to 
+
+body (universal)
+- can <sign> 1 word at a time
+- can <feel> 1 face part at a time but will cause confusion if not anticipated
+- can <concoct> in order to <waft> or <share>
+- can <clap> or <tap> to alert other to presence
+- can <bow> to induce partial trust
+
+
+game flow:
+- start: see first person, always with 1 of each face feature. "what is your favorite concept?" enter phrase like World Peace
+- you walk over to first random person, also always with 1 of each feature. "<tell> this person about World Peace."
+	- after successfully explaining your concept, you take control of them, and you must now explain the concept to the next random person
+	- perfect comprehension preserves the concept, but confusion will mutate it :) World Peace, Wrold Peace, Wro Ld Peace, Wro Ld Qeace, Wrok Ld Qeace...
+	- causing confusion 3 times in a row will cause the interaction to fail
+	- successfully explaining your concept 3 times (not in a row!) will allow it them to understand and adopt it
+- explain backup capabilities when attempts to communicate fail ("you cannot <tell> them about it because they cannot hear you. try <sign> language!")
+	
+"you" and "them" always labeled
+
+show log of commands
+
+...eh, this game is kinda stupid. the kooky faces are interesting, but this doesn't really sound that fun.
